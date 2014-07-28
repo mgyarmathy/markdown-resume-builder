@@ -4,7 +4,7 @@
 1000 Village Drive, College Station, TX 77840
 {: .information-line}
 
-mgyarmathy@tamu.edu &#124; 832.641.7741
+michael@gyarmathy.me &#124; 832.641.7741
 {: .information-line}
 
 
@@ -17,7 +17,7 @@ B.S. Computer Science — Minor in Psychology
 
 Overall GPA: 3.8 / Major GPA: 4.0
 
-   - Focus in User Experience Design and Front-End Software Developmen
+   - Focus in User Experience Design and Front-End Software Development
    - Recipient of the Bill Crane Distinguished Former Student Scholarship (2013-2014) and the Industry Affiliate Program (IAP) Scholarship (2012-2013)
 
 
@@ -26,13 +26,14 @@ Overall GPA: 3.8 / Major GPA: 4.0
 **Consultant Intern, Credera** — Dallas, TX
 **Summer 2014**{:.date}
 
-   - Implemented web technology solutions for clients using popular front-end Javascript frameworks like Angular.js and Knockout.js
-   - Gained valuable interpersonal skills through face-to-face interactions with clients on a daily basis
+   - Developed robust single-page applications for clients using popular front-end Javascript MV* frameworks such as AngularJS and Knockout
+   - Leveraged powerful tools (e.g. Grunt, Gulp, NPM, Compass/SASS, Yeoman, etc.) to streamline workflow and maximize productivity
+   - Conducted review meetings with stakeholders to receive feedback as part of the Agile process
 
 **Web Development Intern, Blackbaud** — Austin, TX
 **Summer 2013**{:.date}
 
-   - Developed a collection of dynamic donation form templates utilizing Blackbaud's RESTful web APIs
+   - Designed a collection of dynamic donation form templates utilizing Blackbaud's RESTful web APIs
    - Learned the practices of Responsive Web Design and Progressive Enhancement (via Modernizr) in the process of implementing client solutions
    - Performed regression testing for Blackbaud's Luminate Q3 product release
 
@@ -41,13 +42,12 @@ Overall GPA: 3.8 / Major GPA: 4.0
 
    - Established web presences to promote various organizations' visions and expand brand visibility
    - Utilized numerous Javascript libraries and CSS frameworks, such as JQuery and Twitter Bootstrap, to quickly build highly-interactive and compelling sites
-   - Clients include: Texas A&M University (Aggies Commit), Beta Upsilon Chi Fraternity, and Wendie's Wish
+   - Past clients: Texas A&M University (Aggies Commit), Beta Upsilon Chi Fraternity, and Wendie's Wish
 
 **Sports Camp Coach, T Bar M Camps** — New Braunfels, TX
 **Summer 2012**{:.date}
 
-   - Counseled 1st- to  6th-grade children in a summer camp setting
-   - Coached and taught children the fundamentals of various sports
+   - Counseled 1st- to  6th-grade children in a summer camp setting and coached them in sport fundamentals
 
 ## Leadership
 
@@ -63,7 +63,7 @@ Overall GPA: 3.8 / Major GPA: 4.0
    - Provided incoming freshmen students mentoring and encouragement at the 4-day retreat and introduced them to the Christian community at Texas A&M
 
 ## Skills
-   - Extensive knowledge of HTML/CSS/Javascript, C++, and Java
+   - Extensive knowledge of HTML/CSS/Javascript, JQuery, AngularJS, Knockout, SASS, PHP, and MySQL
    - Strong writing and communication abilities
 
 ## Personal Interests
