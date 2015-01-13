@@ -25,7 +25,7 @@ body {
     display: block;
     text-align: center;
     margin-top: 12px;
-    font-size: 10px; }
+    font-size: 12px; }
   #content .information-line {
     font-size: 14px;
     line-height: 110%; }
@@ -45,3 +45,5 @@ body {
   /* auto is the initial value */
   /* this affects the margin in the printer settings */
   margin: 0.45in 1in 0.45in; }
+
+/*# sourceMappingURL=style-print.css.map */
