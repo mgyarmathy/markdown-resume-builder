@@ -1,7 +1,7 @@
 # Michael Gyarmathy
 {: .title}
 
-1000 Village Drive, College Station, TX 77840
+4755 Gramercy Oaks Dr. #3-156, Dallas, TX, 75287
 {: .information-line}
 
 michael@gyarmathy.me &#124; 832.641.7741
@@ -11,7 +11,7 @@ michael@gyarmathy.me &#124; 832.641.7741
 ## Education
 
 **Texas A&M University** — College Station, TX
-**Graduating May 2015**{:.date}
+**2011 - 2015**{:.date}
 
 B.S. Computer Science — Minor in Psychology
 
@@ -22,6 +22,9 @@ Overall GPA: 3.8 / Major GPA: 4.0
 
 
 ## Work Experience
+
+**Consultant, Credera** — Dallas, TX *(current)*
+**2015 - (present)**{:.date}
 
 **Consultant Intern, Credera** — Dallas, TX
 **Summer 2014**{:.date}
@@ -42,7 +45,7 @@ Overall GPA: 3.8 / Major GPA: 4.0
 
    - Established web presences to promote various organizations' visions and expand brand visibility
    - Utilized numerous Javascript libraries and CSS frameworks, such as JQuery and Twitter Bootstrap, to quickly build highly-interactive and compelling sites
-   - Past clients: Texas A&M University (Aggies Commit), Beta Upsilon Chi Fraternity, and Wendie's Wish
+   - Past clients: Texas A&M University (Aggies Commit), Sicoustics, and Beta Upsilon Chi Fraternity
 
 **Sports Camp Coach, T Bar M Camps** — New Braunfels, TX
 **Summer 2012**{:.date}
@@ -56,11 +59,6 @@ Overall GPA: 3.8 / Major GPA: 4.0
 
    - Planned and coordinated six rush week events for 150+ potential new members on a fixed budget
    - Responsible for communication between pledges and pledge leadership throughout Fall 2012 semester, utilizing social media for effective mass-communication
-
-**Counselor, Impact Retreat**
-**Summer 2012**{:.date}
-
-   - Provided incoming freshmen students mentoring and encouragement at the 4-day retreat and introduced them to the Christian community at Texas A&M
 
 ## Skills
    - Extensive knowledge of HTML/CSS/Javascript, JQuery, AngularJS, Knockout, SASS, PHP, and MySQL
